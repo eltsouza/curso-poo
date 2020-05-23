@@ -1,0 +1,79 @@
+Construtores.
+
+  Construtor java é forma  de criar o objeto na memória.Ele inicia o objeto para utilização.
+  
+
+Atributos.
+
+  são as as variáveis do mundo real declaradas dentro da classe
+
+Instâncias.
+
+  new Aluno() é uma instancia da classe;  Criação do objeto.
+  
+Referências.
+
+  aluno1 é a variável que faz referência ao objeto instanciado.
+  
+Declarações publicas e privadas.
+
+ - Privates  -  Por padrão quando declaramos uma variável em uma classe java, ela e Privada. Para que seja possivel acessar 
+ essa informações de outra classe, devemos declarar o atributo como Publico.
+  
+  
+Os metódos comuns Getters e Setters
+
+Setter = Recebe os dados, injeta informações nos atributos.
+  
+Getters = Recuperar os dados dos atributos.  
+
+
+Solucionando problemas de NullPointerException
+
+Um dos erros comuns é o NullPointerException que pode ser causado se acaso um objeto nã for instanciado.
+
+Conhecendo sobre o toString
+
+ toString é uma funcionalidade nativa do java que auxilia na geração das informações que foram inputadas no sistema.
+ 
+ 
+ Equals e HashCode (diferenciar e comparar objetos)
+  
+
+Listas em JAVA
+
+São usadas quando necessitamos carregar quanitdades de dados do mesmo tipo. Representa o mundo real, por exemplo uma lista de produtos.
+
+Classes e atributos estáticos mais conhecidos como constantes.
+
+Separando as listas com HashMap
+
+HashMap é uma forma de carregar dados e recuperar ele atraves de um valor.
+
+
+Herança.
+
+- Permite a criação de novas classes a partir de outras já existentes. Essas classes são chamadas de subclasses, ou derivada. As classes que deram origem as subclasses
+são chamadas de superclasses.
+
+
+Anotação @Override e reescruta de métodos.
+
+
+Classes abastratas. 
+
+Usamos a palavra chave abstract para impedir que ela possa ser instanciada.
+
+
+Metodo abstrato.
+
+É uma forma de obrigar que todas as classes filhas, escrevas os metodos. Metodo abstrado sempre deve ficar dentro da classe abstrata.
+
+Polimorfismo.
+
+É a capacidade de trabalhar de varias formos com abstrações, reutilização de código
+
+Interfaces Java
+
+Uma interface pode definir uma série de métodos, mas nunca conter implementação deles.
+ 
